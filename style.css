@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+img {
+  border-radius: 50%;
+  height: 450px;
+  width: 500px;
+}
+
+.image {
+  padding-left: 30px;
+   flex-basis: 40%
+}
+
+.text {
+  font-size: 25px;
+  padding-left: 40px;
+  color: #16697a;
+}
+
+.banner{
+  text-align: center;
+  font-size: 28px;
+  color: #16697a;
+}
+body{
+  background-color: #ebebeb
+}
